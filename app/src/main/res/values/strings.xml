@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HyperGarageSale</string>
+    <string name="activity_name1">Browse Posts</string>
+    <string name="activity_name2">New Post</string>
+    <string name="activity_name3">Product Details</string>
+    <string name="title_hint">What are you selling?</string>
+    <string name="price_hint">Price</string>
+    <string name="desc_hint">Describe your listing</string>
+    <string name="addr_hint">Enter your location</string>
+    <string name="button_post">Post</string>
+    <string name="search_item">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="new_post_snackbar">Thanks for posting!</string>
+    <string name="title_activity_browse_posts">BrowsePostsActivity</string>
+    <string name="image">image</string>
+    <string name="image1">image</string>
+</resources>
